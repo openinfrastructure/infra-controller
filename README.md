@@ -49,7 +49,7 @@ Execute these tutorials in order to get started.
 
 [open]: https://cloud.google.com/blog/products/gcp/introducing-open-in-cloud-shell-a-new-way-to-create-frictionless-tutorials
 [shell_img]: https://gstatic.com/cloudssh/images/open-btn.png
-[setup_gcs]: https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/openinfrastructure/infra-controller&tutorial=resources/setup_state_bucket.md
+[setup_gcs]: https://console.cloud.google.com/cloudshell/open?shellonly=true&cloudshell_git_repo=https://github.com/openinfrastructure/infra-controller&cloudshell_tutorial=resources/setup_state_bucket.md
 [runner]: https://docs.gitlab.com/runner/
 [roles]: https://cloud.google.com/iam/docs/understanding-roles
 [token]: https://docs.gitlab.com/ee/ci/runners/#registering-a-group-runner
